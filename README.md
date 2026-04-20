@@ -96,7 +96,7 @@ Plataforma de matrícula para una institución educativa real como parte del **T
 ## 🎓 Educación
 
 **Bachillerato en Informática Empresarial** · 2021 – Actualidad  
-Universidad de Costa Rica – Sede de Guapiles
+Universidad de Costa Rica – Sede del Atlantico
 
 Formación integral en desarrollo de software, bases de datos, redes, gestión de proyectos y administración — con énfasis en cómo la tecnología apoya procesos y necesidades del negocio.
 
