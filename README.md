@@ -75,7 +75,7 @@ Aplicación web **fullstack** con módulos de gestión de pacientes, citas y exp
 ### 🏫 Sistema de Matrícula Institucional *(en desarrollo)*
 > `.NET` · `React` · `JWT` · `MySQL`
 
-Plataforma de matrícula para una institución educativa real como parte del **TCU (Trabajo Comunal Universitario)** de la UCR. Incluye módulos administrativos completos, API REST, paginación, filtros y envío de credenciales por correo.
+Sistema web de matrícula escolar desarrollado como TCU de la UCR. Incluye API REST con ASP.NET Core, frontend en React, módulos administrativos completos, paginación, filtros, autenticación JWT, recuperación de contraseña por correo y generación de comprobantes en PDF.
 
 🔗 [Ver repositorio](https://github.com/JosiGB09/Smart-Enrollment-Public)
 
